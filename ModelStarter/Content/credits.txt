@@ -1,0 +1,5 @@
+heightmap from WikiMedia https://en.wikipedia.org/wiki/Heightmap
+
+terrain texture from arikel's Seamless Textures pack on OpenGameArt https://opengameart.org/content/seamless-textures
+
+tank model and textures from XNA samples originally released by Microsoft
